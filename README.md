@@ -114,15 +114,15 @@ Compared four algorithms on both **accuracy** and **macro F1**:
 
 | Model | CV Accuracy | CV Macro F1 |
 |---|---|---|
-| Logistic Regression | _xx.x%_ | _0.xxx_ |
-| Decision Tree | _xx.x%_ | _0.xxx_ |
-| Random Forest | _xx.x%_ | _0.xxx_ |
-| Gradient Boosting | _xx.x%_ | _0.xxx_ |
+| Logistic Regression | 65.9%_ | 0.522 |
+| Decision Tree | 78.2%_ | 0.647 |
+| Random Forest | 85.1%_ | 0.715 |
+| Gradient Boosting | 85.0%_ | 0.705 |
 
 **Final tuned Random Forest on the test set:**
 
-- Accuracy: **_xx.x%_**
-- Macro F1: **_0.xxx_**
+- Accuracy: **85.5%**
+- Macro F1: **0.741**
 - Best hyperparameters: `{ ... }`
 
 <!-- Optionally add your confusion matrix image here -->
@@ -243,7 +243,5 @@ Predicts the room type for a listing.
 **Dheeraj**
 
 - GitHub: [@dheeraj1306](https://github.com/dheeraj1306)
-- LinkedIn: _add your LinkedIn URL_
-- Email: _add your email_
 
 ⭐ If you found this project useful, consider giving it a star!
