@@ -123,7 +123,7 @@ Compared four algorithms on both **accuracy** and **macro F1**:
 
 - Accuracy: **85.5%**
 - Macro F1: **0.741**
-- Best hyperparameters: `{ ... }`
+- Best hyperparameters: `{'classifier__n_estimators': 200, 'classifier__min_samples_split': 10, 'classifier__max_depth': None }`
 
 <!-- Optionally add your confusion matrix image here -->
 <!-- ![Confusion Matrix](screenshots/confusion_matrix.png) -->
