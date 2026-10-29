@@ -114,10 +114,10 @@ Compared four algorithms on both **accuracy** and **macro F1**:
 
 | Model | CV Accuracy | CV Macro F1 |
 |---|---|---|
-| Logistic Regression | 65.9%_ | 0.522 |
-| Decision Tree | 78.2%_ | 0.647 |
-| Random Forest | 85.1%_ | 0.715 |
-| Gradient Boosting | 85.0%_ | 0.705 |
+| Logistic Regression | 65.9% | 0.522 |
+| Decision Tree | 78.2% | 0.647 |
+| Random Forest | 85.1% | 0.715 |
+| Gradient Boosting | 85.0% | 0.705 |
 
 **Final tuned Random Forest on the test set:**
 
